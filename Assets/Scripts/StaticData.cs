@@ -9,5 +9,7 @@ public static class StaticData
     public static int hiScore = 0;
     public static int lives = 3;
 
+    public static bool power = false;
+
 	
 }

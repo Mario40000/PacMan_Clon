@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7101591473305044292d67b87466c3e6
+timeCreated: 1501697872
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crack Man
+  fontNames:
+  - Crack Man
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
